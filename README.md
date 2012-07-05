@@ -36,6 +36,7 @@ Android stuff:
 	checker.isUpdateAvailable();
 
 5) If an update is available, you can download and install it by using:
+
 	checker.downloadAndInstall("URL with http:// to the location of the update apk");
 
 6) You're done!!
