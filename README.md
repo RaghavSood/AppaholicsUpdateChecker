@@ -1,6 +1,8 @@
 AppaholicsUpdateChecker
 =======================
 
+Follow me on Twitter for updates: @Appaholics16
+
 This is a free and open source library to help you check for updates to apps which are not installed via any appstore.
 
 UpdateChecker contains the source code for the library. 
