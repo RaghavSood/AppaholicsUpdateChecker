@@ -8,3 +8,5 @@ Follow me on Twitter for updates: @Appaholics16
 [API 2 Integration Guide](https://github.com/RaghavSood/AppaholicsUpdateChecker/wiki/API-2-Integration-Guide)
 
 [UpdateChecker Documentation](https://github.com/RaghavSood/AppaholicsUpdateChecker/wiki/UpdateChecker-Documentation)
+
+[DownloadManager Documentation](https://github.com/RaghavSood/AppaholicsUpdateChecker/wiki/DownloadManager-Documentation)
